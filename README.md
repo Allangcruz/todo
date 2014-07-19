@@ -23,7 +23,9 @@ Tecnologias usadas
 
 ####Front end
 *Jquery 2.0
+
 *Bootstrap 2.3
+
 *Angularjs 1.2
 
 ####Back end (framework)
